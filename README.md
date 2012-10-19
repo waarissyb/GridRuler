@@ -14,8 +14,9 @@ At Mirabeau we design with ratios. Usually they're made up from the client's log
 - Move ruler with dragging and dropping;
 - Move ruler with keyboard, by clicking the third icon. Hold shift to move it 10px at a time instead of 1px. Just like in Photoshop.
 
-## Known issue
+## Known issues
 - Doesn't work nicely in IE and touch devices;
 - Some browsers can't show the icons correctly;
+- Sometimes it clashes with other CSS or JS. Please let me know where;
 - It needs better text/usability for the prompt;
 - You need to fill in some numbers in the prompt in order to make it disappear. I think it needs to go away if you click cancel three times.
